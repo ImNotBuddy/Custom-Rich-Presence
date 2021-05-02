@@ -5,7 +5,7 @@
 2. Does NOT work on browser
 
 # How to setup
-1. download Visual studio code 'https://code.visualstudio.com'
+1. download Visual studio code 'https://code.visualstudio.com' or use any code runner thingy lol
 2. go to 'https://discord.com/developers/applications' and create a new aplication
 3. copy application id
 4. go to rpc tab and upload logo's or files you want to display
