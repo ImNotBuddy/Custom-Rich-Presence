@@ -1,5 +1,9 @@
 # Custom-Rich-Presence
 
+# Notes
+1. You MUST use the discord app and have it open
+2. Does NOT work on browser
+
 # How to setup
 1. download Visual studio code 'https://code.visualstudio.com'
 2. go to 'https://discord.com/developers/applications' and create a new aplication
